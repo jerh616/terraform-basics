@@ -1,3 +1,5 @@
+# Chapter 2 complete - https://learning.oreilly.com/library/view/terraform-up/9781492046899/ch02.html#idm45017940045592
+
 provider "aws" {
   region = "eu-west-1"
 }
